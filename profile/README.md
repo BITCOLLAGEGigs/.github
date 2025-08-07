@@ -1,5 +1,3 @@
----
-
 ## BITCOLLAGEGigs
 
 **Welcome to BITCOLLAGEGigs!**
@@ -64,5 +62,3 @@ This organization is a hub for all things BITCOLLAGE:
 
 * Browse through our pinned repositories—where innovative ideas take shape.
 * Follow along, contribute, and help us build solutions that resonate beyond features—into impact.
-
----
