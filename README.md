@@ -1,7 +1,8 @@
 # BITCOLLAGEGigs
 # 👋 Welcome to [BITCOLLAGEGigs]!
 
-![Org Banner or Logo]([https://bitcollageconsulting.com/logo-or-banner.png](https://static.wixstatic.com/media/0726c1_02b9edd2536648eb848ec38df179423f~mv2.gif))
+<img width="1599" height="498" alt="image" src="https://github.com/user-attachments/assets/d525d1f2-2096-4d05-8719-1471a817c187" />
+
 
 Welcome to the official GitHub organization for **[BITCOLLAGE]**!  
 We’re a team of passionate developers, designers, educators, and contributors working together to build innovative and impactful software products.
