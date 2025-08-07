@@ -1,5 +1,4 @@
-# BITCOLLAGEGigs
-# 👋 Welcome to [BITCOLLAGEGigs]!
+# 👋 Welcome to BITCOLLAGEGigs!
 
 <img width="1599" height="498" alt="image" src="https://github.com/user-attachments/assets/d525d1f2-2096-4d05-8719-1471a817c187" />
 
